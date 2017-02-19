@@ -1,0 +1,41 @@
+%!Adobe-FontList 1.14
+%Locale:0x4809
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-Bold
+FamilyName:Helvetica
+StyleName:Bold
+FullName:Helvetica Bold
+MenuName:Helvetica
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:\\DISKSTATION\Design Works\Ongoing\Wordcamp\WordCamp Flyer\Document fonts\Helvetica-Bold.ttf
+DataFormat:sfntData
+FileLength:308608
+FileModTime:1455768686
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-Light
+FamilyName:Helvetica
+StyleName:Light
+FullName:Helvetica Light
+MenuName:Helvetica
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:\\DISKSTATION\Design Works\Ongoing\Wordcamp\WordCamp Flyer\Document fonts\Helvetica-Light.ttf
+DataFormat:sfntData
+FileLength:291384
+FileModTime:1455768882
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
